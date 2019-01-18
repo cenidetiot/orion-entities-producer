@@ -3,10 +3,10 @@
 ## Instrucciones 
 
 1. Install ngsi-parser y ocb-sender
-
+```js
     npm install ngsi-parser ocb-sender -S
 
-
+```
 2. Importar la librería 
 
 ```js
