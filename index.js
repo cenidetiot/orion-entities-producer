@@ -5,7 +5,6 @@ ocb.config('http://0.0.0.0:1026/v2')
 .then((result) => console.log(result))
 .catch((err) => console.log(err));
 
-
 var entity = {
     id : "Room" + Date.now(),
     type : "Room",
