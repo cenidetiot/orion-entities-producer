@@ -60,4 +60,8 @@
         .catch(console.log)
     },3000)
 ```
+7. Ejecutar el archivo index.js
+```js
+    $ node index.js
 
+```
